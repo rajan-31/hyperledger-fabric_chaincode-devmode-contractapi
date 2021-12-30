@@ -1,8 +1,8 @@
-build/bin/*
-sampleconfig/genesisblock
-go.mod
-go.sum
-ch1.tx
-ch1.block
+# build/bin/*
+# sampleconfig/genesisblock
+# go.mod
+# go.sum
+# ch1.tx
+# ch1.block
 
-!build/bin/.gitkeep
+# !build/bin/.gitkeep
